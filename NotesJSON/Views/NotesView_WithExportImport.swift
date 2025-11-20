@@ -1,13 +1,6 @@
-//
-//  ContentView.swift
-//  108-NotesJSON
-//
-//  Created by Samantha Roman on 11/17/25.
-//
-
 import SwiftUI
 
-struct ContentView: View {
+struct NotesView_WithExportImport: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
@@ -20,5 +13,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    NotesView_WithExportImport()
 }

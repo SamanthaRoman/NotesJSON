@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		4A6956492ECC077A00A3B54D /* 108-NotesJSON.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "108-NotesJSON.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4A6956492ECC077A00A3B54D /* NotesJSON.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NotesJSON.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		4A69564B2ECC077A00A3B54D /* 108-NotesJSON */ = {
+		4A69564B2ECC077A00A3B54D /* NotesJSON */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "108-NotesJSON";
+			path = NotesJSON;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		4A6956402ECC077A00A3B54D = {
 			isa = PBXGroup;
 			children = (
-				4A69564B2ECC077A00A3B54D /* 108-NotesJSON */,
+				4A69564B2ECC077A00A3B54D /* NotesJSON */,
 				4A69564A2ECC077A00A3B54D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		4A69564A2ECC077A00A3B54D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4A6956492ECC077A00A3B54D /* 108-NotesJSON.app */,
+				4A6956492ECC077A00A3B54D /* NotesJSON.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4A6956482ECC077A00A3B54D /* 108-NotesJSON */ = {
+		4A6956482ECC077A00A3B54D /* NotesJSON */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4A6956542ECC077B00A3B54D /* Build configuration list for PBXNativeTarget "108-NotesJSON" */;
+			buildConfigurationList = 4A6956542ECC077B00A3B54D /* Build configuration list for PBXNativeTarget "NotesJSON" */;
 			buildPhases = (
 				4A6956452ECC077A00A3B54D /* Sources */,
 				4A6956462ECC077A00A3B54D /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				4A69564B2ECC077A00A3B54D /* 108-NotesJSON */,
+				4A69564B2ECC077A00A3B54D /* NotesJSON */,
 			);
-			name = "108-NotesJSON";
+			name = NotesJSON;
 			packageProductDependencies = (
 			);
 			productName = "108-NotesJSON";
-			productReference = 4A6956492ECC077A00A3B54D /* 108-NotesJSON.app */;
+			productReference = 4A6956492ECC077A00A3B54D /* NotesJSON.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4A6956442ECC077A00A3B54D /* Build configuration list for PBXProject "108-NotesJSON" */;
+			buildConfigurationList = 4A6956442ECC077A00A3B54D /* Build configuration list for PBXProject "NotesJSON" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4A6956482ECC077A00A3B54D /* 108-NotesJSON */,
+				4A6956482ECC077A00A3B54D /* NotesJSON */,
 			);
 		};
 /* End PBXProject section */
@@ -301,7 +301,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4A6956442ECC077A00A3B54D /* Build configuration list for PBXProject "108-NotesJSON" */ = {
+		4A6956442ECC077A00A3B54D /* Build configuration list for PBXProject "NotesJSON" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4A6956522ECC077B00A3B54D /* Debug */,
@@ -310,7 +310,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4A6956542ECC077B00A3B54D /* Build configuration list for PBXNativeTarget "108-NotesJSON" */ = {
+		4A6956542ECC077B00A3B54D /* Build configuration list for PBXNativeTarget "NotesJSON" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4A6956552ECC077B00A3B54D /* Debug */,
